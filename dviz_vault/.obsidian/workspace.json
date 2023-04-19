@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "455807fee6a446f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Jannik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Requirements.md",
+                "file": "Test Jannik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Requirements.md",
+                "file": "Test Jannik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Requirements.md"
+                "file": "Test Jannik.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "541d9a621b8bded0",
+  "active": "455807fee6a446f4",
   "lastOpenFiles": [
-    "Pasted image 20230419104526.png",
-    "Requirements.md"
+    "Pasted image 20230419105424.png",
+    "Requirements.md",
+    "Test Jannik.md",
+    "Pasted image 20230419104526.png"
   ]
 }
