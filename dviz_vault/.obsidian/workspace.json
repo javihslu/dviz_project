@@ -11,8 +11,12 @@
             "id": "541d9a621b8bded0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SW01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SW01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SW01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SW01.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32ddffa7718ccbce",
+  "active": "5baa6a99c7b72331",
   "lastOpenFiles": [
-    "Pasted image 20230419105034.png",
+    "SW01.md",
     "Pasted image 20230419104526.png",
+    "Pasted image 20230419105034.png",
     "Requirements SW01.md",
     "Test Jannik.md",
     "Pasted image 20230419105115.png",
