@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sw02.md",
+                "file": "sw03.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sw02.md",
+                "file": "sw03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sw02.md",
+                "file": "sw03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sw02.md"
+                "file": "sw03.md"
               }
             }
           }
@@ -148,19 +148,19 @@
   },
   "active": "541d9a621b8bded0",
   "lastOpenFiles": [
-    "Pasted image 20230419115107.png",
-    "Pasted image 20230419115056.png",
-    "Pasted image 20230419115019.png",
-    "Pasted image 20230419115008.png",
-    "Pasted image 20230419115001.png",
-    "Pasted image 20230419114946.png",
-    "Pasted image 20230419114935.png",
-    "Pasted image 20230419114914.png",
-    "Pasted image 20230419114906.png",
-    "Pasted image 20230419114831.png",
-    "Pasted image 20230419114822.png",
-    "![[.md",
+    "Pasted image 20230419120432.png",
+    "Pasted image 20230419120417.png",
+    "Pasted image 20230419120404.png",
+    "Pasted image 20230419120355.png",
+    "Pasted image 20230419120327.png",
+    "Pasted image 20230419120312.png",
+    "Pasted image 20230419120303.png",
+    "Pasted image 20230419120246.png",
+    "Pasted image 20230419120236.png",
+    "Pasted image 20230419120229.png",
+    "Pasted image 20230419120218.png",
     "sw02.md",
+    "![[.md",
     "SW01.md",
     "sw03.md",
     "Requirements.md"
