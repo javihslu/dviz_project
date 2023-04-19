@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f8d9e2721de78e26",
+        "id": "1926a2b1457669c8",
         "type": "tabs",
         "children": [
           {
-            "id": "541d9a621b8bded0",
+            "id": "6189eb66bf461e2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sw03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f6f04bc055b27c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sw02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f20df320be985dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sw04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "797845d2aee44e6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sw03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1af144a1cf5bfe52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sw05.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sw05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sw05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sw05.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -195,24 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1af144a1cf5bfe52",
+  "active": "6189eb66bf461e2c",
   "lastOpenFiles": [
+    "sw04.md",
     "sw06.md",
     "sw03.md",
+    "Pasted image 20230419155453.png",
+    "Pasted image 20230419155448.png",
+    "Pasted image 20230419155418.png",
+    "Pasted image 20230419155411.png",
+    "Pasted image 20230419155401.png",
+    "Pasted image 20230419155350.png",
+    "Pasted image 20230419155309.png",
+    "Pasted image 20230419155237.png",
+    "Pasted image 20230419155207.png",
+    "Pasted image 20230419155055.png",
+    "sw05.md",
     "sw02.md",
     "SW01.md",
-    "sw05.md",
-    "sw04.md",
-    "Screenshot 2023-04-19 at 13.23.43.png",
-    "Screenshot 2023-04-19 at 13.23.23.png",
-    "Screenshot 2023-04-19 at 13.23.14.png",
-    "Screenshot 2023-04-19 at 13.22.41.png",
-    "Screenshot 2023-04-19 at 13.22.07.png",
-    "Screenshot 2023-04-19 at 13.21.51.png",
-    "Screenshot 2023-04-19 at 13.21.30.png",
-    "Screenshot 2023-04-19 at 13.21.12.png",
-    "Screenshot 2023-04-19 at 13.20.59.png",
-    "Screenshot 2023-04-19 at 13.20.49.png",
     "![[.md",
     "Requirements SW01.md",
     "Test Jannik.md"
