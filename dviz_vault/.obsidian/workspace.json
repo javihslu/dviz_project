@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8d9e2721de78e26",
+        "id": "e8eb719e92b58d00",
         "type": "tabs",
         "children": [
           {
-            "id": "541d9a621b8bded0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sw03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f6f04bc055b27c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sw02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f20df320be985dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sw04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "797845d2aee44e6a",
+            "id": "a0fc6cb017f6379a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,18 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "797845d2aee44e6a",
+  "active": "a0fc6cb017f6379a",
   "lastOpenFiles": [
     "sw06.md",
     "Topics.md",
+    "sw02.md",
     "Pasted image 20230419180406.png",
-    "![[.md",
-    "Pasted image 20230419111650.png",
-    "sw05.md",
+    "SW01.md",
     "sw04.md",
     "sw03.md",
-    "sw02.md",
-    "SW01.md",
     "Pasted image 20230419155453.png",
     "Pasted image 20230419155448.png",
     "Pasted image 20230419155418.png",
@@ -203,6 +163,9 @@
     "Pasted image 20230419155350.png",
     "Pasted image 20230419155309.png",
     "Pasted image 20230419155237.png",
+    "Pasted image 20230419155207.png",
+    "sw05.md",
+    "![[.md",
     "Requirements SW01.md",
     "Test Jannik.md"
   ]
