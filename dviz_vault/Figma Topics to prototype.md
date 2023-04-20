@@ -7,4 +7,4 @@
 - seasons
 - rotation speed
 - temperatures, day/night
-- 
+- gravitational pull
