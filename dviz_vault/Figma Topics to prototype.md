@@ -1,0 +1,4 @@
+- Average of the Radius of every Planet: possible to do it in an interactive way, where you could change the dataset from planet to not planet
+- DiscorveryDate: making a nice Viz, like a timeline, where you see which planet was discovered when
+- Volume?
+- 

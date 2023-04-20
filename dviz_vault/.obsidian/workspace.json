@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "890c6d78dc4a44de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Figma Topics to prototype.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics.md",
+                "file": "Figma Topics to prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics.md",
+                "file": "Figma Topics to prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics.md"
+                "file": "Figma Topics to prototype.md"
               }
             }
           }
@@ -183,11 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "797845d2aee44e6a",
+  "active": "890c6d78dc4a44de",
   "lastOpenFiles": [
+    "Topics.md",
+    "Figma Topics to prototype.md",
     "Pasted image 20230420104359.png",
     "sw06.md",
-    "Topics.md",
     "Pasted image 20230419180406.png",
     "![[.md",
     "Pasted image 20230419111650.png",
@@ -203,7 +216,6 @@
     "Pasted image 20230419155401.png",
     "Pasted image 20230419155350.png",
     "Pasted image 20230419155309.png",
-    "Pasted image 20230419155237.png",
     "Requirements SW01.md",
     "Test Jannik.md"
   ]
