@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sw06.md",
+                "file": "Topics.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sw06.md",
+                "file": "Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sw06.md",
+                "file": "Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sw06.md"
+                "file": "Topics.md"
               }
             }
           }
@@ -185,9 +185,11 @@
   },
   "active": "797845d2aee44e6a",
   "lastOpenFiles": [
+    "sw06.md",
+    "Topics.md",
+    "Pasted image 20230419180406.png",
     "![[.md",
     "Pasted image 20230419111650.png",
-    "sw06.md",
     "sw05.md",
     "sw04.md",
     "sw03.md",
@@ -201,7 +203,6 @@
     "Pasted image 20230419155350.png",
     "Pasted image 20230419155309.png",
     "Pasted image 20230419155237.png",
-    "Pasted image 20230419155207.png",
     "Requirements SW01.md",
     "Test Jannik.md"
   ]
