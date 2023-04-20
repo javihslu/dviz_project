@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics.md",
+                "file": "sw06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics.md",
+                "file": "sw06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics.md",
+                "file": "sw06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics.md"
+                "file": "sw06.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "a0fc6cb017f6379a",
   "lastOpenFiles": [
-    "Pasted image 20230420104359.png",
-    "sw06.md",
+    "sw03.md",
     "Topics.md",
+    "sw06.md",
+    "sw05.md",
+    "Pasted image 20230420104359.png",
     "sw02.md",
     "Pasted image 20230419180406.png",
     "SW01.md",
     "sw04.md",
-    "sw03.md",
     "Pasted image 20230419155453.png",
     "Pasted image 20230419155448.png",
     "Pasted image 20230419155418.png",
@@ -164,8 +165,6 @@
     "Pasted image 20230419155350.png",
     "Pasted image 20230419155309.png",
     "Pasted image 20230419155237.png",
-    "Pasted image 20230419155207.png",
-    "sw05.md",
     "![[.md",
     "Requirements SW01.md",
     "Test Jannik.md"
