@@ -4,11 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e8eb719e92b58d00",
+        "id": "f8d9e2721de78e26",
         "type": "tabs",
         "children": [
           {
-            "id": "a0fc6cb017f6379a",
+            "id": "541d9a621b8bded0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sw03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f6f04bc055b27c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sw02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f20df320be985dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sw04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "797845d2aee44e6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "890c6d78dc4a44de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Figma Topics to prototype.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -69,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "400e48cb5c98c75c",
@@ -86,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics.md",
+                "file": "Figma Topics to prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics.md",
+                "file": "Figma Topics to prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics.md"
+                "file": "Figma Topics to prototype.md"
               }
             }
           }
@@ -147,17 +195,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32ddffa7718ccbce",
+  "active": "890c6d78dc4a44de",
   "lastOpenFiles": [
-    "sw06.md",
-    "sw03.md",
     "Topics.md",
-    "sw05.md",
+    "Figma Topics to prototype.md",
     "Pasted image 20230420104359.png",
-    "sw02.md",
+    "sw06.md",
     "Pasted image 20230419180406.png",
-    "SW01.md",
+    "![[.md",
+    "Pasted image 20230419111650.png",
+    "sw05.md",
     "sw04.md",
+    "sw03.md",
+    "sw02.md",
+    "SW01.md",
     "Pasted image 20230419155453.png",
     "Pasted image 20230419155448.png",
     "Pasted image 20230419155418.png",
@@ -165,8 +216,6 @@
     "Pasted image 20230419155401.png",
     "Pasted image 20230419155350.png",
     "Pasted image 20230419155309.png",
-    "Pasted image 20230419155237.png",
-    "![[.md",
     "Requirements SW01.md",
     "Test Jannik.md"
   ]
