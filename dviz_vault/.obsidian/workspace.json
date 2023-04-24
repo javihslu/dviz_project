@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Figma Topics to prototype.md",
+                "file": "Topics.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Figma Topics to prototype.md",
+                "file": "Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Figma Topics to prototype.md",
+                "file": "Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Figma Topics to prototype.md"
+                "file": "Topics.md"
               }
             }
           }
@@ -197,10 +197,10 @@
   },
   "active": "890c6d78dc4a44de",
   "lastOpenFiles": [
-    "Topics.md",
-    "Figma Topics to prototype.md",
-    "Pasted image 20230420104359.png",
     "sw06.md",
+    "Figma Topics to prototype.md",
+    "Topics.md",
+    "Pasted image 20230420104359.png",
     "Pasted image 20230419180406.png",
     "![[.md",
     "Pasted image 20230419111650.png",
