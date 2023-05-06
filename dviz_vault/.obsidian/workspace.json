@@ -61,14 +61,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics.md",
+                "file": "Figma Topics to prototype.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d59b61b559a0517a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -113,6 +123,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "86cd8e66af4c8db4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -134,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics.md",
+                "file": "Figma Topics to prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics.md",
+                "file": "Figma Topics to prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics.md"
+                "file": "Figma Topics to prototype.md"
               }
             }
           }
@@ -195,11 +213,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "890c6d78dc4a44de",
+  "active": "d59b61b559a0517a",
   "lastOpenFiles": [
+    "sw02.md",
+    "SW01.md",
+    "Topics.md",
     "sw06.md",
     "Figma Topics to prototype.md",
-    "Topics.md",
     "Pasted image 20230420104359.png",
     "Pasted image 20230419180406.png",
     "![[.md",
@@ -207,8 +227,6 @@
     "sw05.md",
     "sw04.md",
     "sw03.md",
-    "sw02.md",
-    "SW01.md",
     "Pasted image 20230419155453.png",
     "Pasted image 20230419155448.png",
     "Pasted image 20230419155418.png",
