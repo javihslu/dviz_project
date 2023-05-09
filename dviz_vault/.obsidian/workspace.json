@@ -71,9 +71,11 @@
             "id": "d59b61b559a0517a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "Figma Topics to prototype.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
