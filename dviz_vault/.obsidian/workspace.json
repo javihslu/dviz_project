@@ -73,7 +73,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "sw02.md",
+=======
+                "file": "Topics.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +158,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "sw02.md",
+=======
+                "file": "Topics.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +179,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "sw02.md",
+=======
+                "file": "Topics.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "sw02.md"
+=======
+                "file": "Topics.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -218,19 +234,25 @@
   "active": "d59b61b559a0517a",
   "lastOpenFiles": [
     "Figma Topics to prototype.md",
+<<<<<<< Updated upstream
     "solar_system",
     "Untitled Folder",
     "Untitled.ipynb",
+=======
+    "Topics.md",
+    "sw04.md",
+>>>>>>> Stashed changes
     "sw02.md",
     "SW01.md",
-    "Topics.md",
     "sw06.md",
+<<<<<<< Updated upstream
+=======
+    "![[.md",
+>>>>>>> Stashed changes
     "Pasted image 20230420104359.png",
     "Pasted image 20230419180406.png",
-    "![[.md",
     "Pasted image 20230419111650.png",
     "sw05.md",
-    "sw04.md",
     "sw03.md",
     "Pasted image 20230419155453.png",
     "Pasted image 20230419155448.png",
