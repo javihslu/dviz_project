@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f8d9e2721de78e26",
+        "id": "4ac71615bc39a588",
         "type": "tabs",
         "children": [
           {
-            "id": "541d9a621b8bded0",
+            "id": "3f35c49772be44bf",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
               "type": "markdown",
               "state": {
                 "file": "sw03.md",
@@ -81,10 +82,13 @@
                 "mode": "source",
                 "source": false
               }
+=======
+              "type": "empty",
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,9 +163,12 @@
               "type": "backlink",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "sw02.md",
 =======
                 "file": "Topics.md",
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
@@ -180,9 +187,12 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "sw02.md",
 =======
                 "file": "Topics.md",
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -205,6 +215,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {
 <<<<<<< Updated upstream
                 "file": "sw02.md"
@@ -212,6 +223,9 @@
                 "file": "Topics.md"
 >>>>>>> Stashed changes
               }
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ],
@@ -231,18 +245,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d59b61b559a0517a",
+  "active": "3f35c49772be44bf",
   "lastOpenFiles": [
+    "sw02.md",
     "Figma Topics to prototype.md",
 <<<<<<< Updated upstream
     "solar_system",
     "Untitled Folder",
     "Untitled.ipynb",
+<<<<<<< Updated upstream
 =======
     "Topics.md",
     "sw04.md",
 >>>>>>> Stashed changes
     "sw02.md",
+=======
+>>>>>>> Stashed changes
     "SW01.md",
     "sw06.md",
 <<<<<<< Updated upstream
